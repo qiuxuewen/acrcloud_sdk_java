@@ -93,9 +93,9 @@ def version()
 ```
 # Example
 run Test: <br>
-  cd test<br>
+\>>> cd test<br>
 Replace "xxxxxxxx" below with your project's access_key and access_secret.<br>
-  sh run.sh<br>
+\>>> sh run.sh<br>
 ```java
 import java.io.*;
 import java.util.Map;
